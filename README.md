@@ -1,6 +1,6 @@
 🚢 MarineOps-Engine
 
-A specialized Revenue Operations (RevOps) and automation extension for ERPNext tailored for the maritime and marine logistics sector. This application serves as a central hub to optimize sales pipelines, automate multi-currency vessel billing, track conversion metrics via SQL, and expose webhooks for seamless n8n integration.
+A specialized Revenue Operations (RevOps) automation engine for ERPNext, tailored for the maritime and marine logistics sector. Designed to optimize sales pipelines, automate multi-currency vessel billing, track conversion analytics via SQL, and expose event-driven webhooks for n8n workflow orchestration.
 
 ### Installation
 
