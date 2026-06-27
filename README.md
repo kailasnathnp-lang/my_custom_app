@@ -1,6 +1,6 @@
-### OpsEngine
+🚢 MarineOps-Engine
 
-An SRE and reliability operations engine designed to track system availability metrics, automate incident response playbooks, and manage infrastructure alert definitions.
+A specialized Revenue Operations (RevOps) and automation extension for ERPNext tailored for the maritime and marine logistics sector. This application serves as a central hub to optimize sales pipelines, automate multi-currency vessel billing, track conversion metrics via SQL, and expose webhooks for seamless n8n integration.
 
 ### Installation
 
